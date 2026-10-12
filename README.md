@@ -1,5 +1,4 @@
-<img width="742" height="414" alt="Screenshot 2026-10-12 151000" src="https://github.com/user-attachments/assets/34b4d2cc-a7da-44a9-8dd3-7ef6dfa5845d" /><img width="453" height="280" alt="Screenshot 2026-10-12 150738" src="https://github.com/user-attachments/assets/865a6d51-f469-4b08-b348-6269db4d8806" /># BÁO CÁO BÀI TẬP 
-
+# báo cáo bài tập
 ## THÔNG TIN SINH VIÊN
 - **Họ và tên:** Nguyễn Thị Hồng Linh
 - **Mã số sinh viên:** [24810310005]
